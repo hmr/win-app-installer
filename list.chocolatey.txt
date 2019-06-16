@@ -1,0 +1,88 @@
+# ##################################################
+# Chocolatey
+# ##################################################
+chocolatey
+chocolateygui
+# ##################################################
+# Programming Languages
+# ##################################################
+php
+python2
+python3
+strawberryperl
+rakudostar
+# ##################################################
+# Network utils
+# ##################################################
+putty.install
+transmission
+slack
+# rdmfree
+winscp
+awscli
+googlechrome
+whatsapp
+line
+viber
+# ##################################################
+# Misc utils
+# ##################################################
+bitwarden
+bitwarden-cli
+7zip.install
+autohotkey.install
+qdir
+adobereader
+vlc
+k-litecodecpackfull
+spotify
+# toastify
+microsoft-teams.install
+powerbi
+cpu-z.install
+# launchy-beta
+launchyqt
+# ##################################################
+# Programming tools
+# ##################################################
+conemu
+ctags
+hashcheck
+velocity
+git.install
+tortoisegit
+# ##################################################
+# Editors
+# ##################################################
+notepadplusplus.install
+mery
+vim-tux.install /InstallPopUp
+neovim
+vscode-insiders
+# ##################################################
+# Database(MySQL)
+# ##################################################
+mysql.odbc
+mysql-connector
+mysql-connector-java
+mysql.utilities
+mysql-cli
+mysql.workbench
+# ##################################################
+# Database(PostgreSQL)
+# ##################################################
+postgresql
+pgadmin4
+# ##################################################
+# Database Utils
+# ##################################################
+heidisql
+datagrip
+dbeaver
+databasenet
+sqlyog
+dbmigration
+toad.mysql
+dbforge-mysql-studio-exp
+databasemaster
+sqlnotebook
