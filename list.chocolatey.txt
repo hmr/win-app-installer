@@ -14,6 +14,7 @@ rakudostar
 # ##################################################
 # Network utils
 # ##################################################
+Firefox
 putty.install
 transmission
 slack
@@ -23,23 +24,26 @@ awscli
 googlechrome
 whatsapp
 line
-viber
+# viber
 # ##################################################
-# Misc utils
+# Security utils
 # ##################################################
 bitwarden
 bitwarden-cli
+# ##################################################
+# Misc utils
+# ##################################################
 7zip.install
-autohotkey.install
 qdir
+autohotkey.install
+spotify
 adobereader
 vlc
 k-litecodecpackfull
-spotify
 # toastify
 microsoft-teams.install
-powerbi
-cpu-z.install
+# powerbi
+# cpu-z.install
 # launchy-beta
 launchyqt
 # ##################################################
@@ -58,7 +62,7 @@ notepadplusplus.install
 mery
 vim-tux.install /InstallPopUp
 neovim
-vscode-insiders
+# vscode-insiders
 # ##################################################
 # Database(MySQL)
 # ##################################################
